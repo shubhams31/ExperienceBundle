@@ -1,0 +1,8 @@
+{
+  "appPageId" : "bf75d0b4-cc1c-4c53-9b27-1278c72a6620",
+  "id" : "0c9cfd94-71a6-4ae5-882c-42dc88105398",
+  "label" : "Topic Detail",
+  "routeType" : "topic",
+  "type" : "route",
+  "urlPrefix" : "topic"
+}

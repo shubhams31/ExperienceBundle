@@ -1,0 +1,17 @@
+{
+  "orgName": "TDXShubhbot Dev Company",
+  "edition": "Developer",
+  "username": "scratch@desktop.com",
+  "adminEmail": "s.srivastava@salesforce.com",
+  "features": ["Communities","Chatbot"],
+  "settings": {
+    "orgPreferenceSettings": {
+      "networksEnabled": true,
+      "s1DesktopEnabled": true,
+      "selfSetPasswordInApi": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
+    }
+  }
+ }
